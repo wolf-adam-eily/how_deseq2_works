@@ -1,4 +1,3 @@
-#The Math and Statistics Behind DESeq2
 This tutorial is meant to be used in conjunction with UConn's RefSeq Differential Expression Tutorial. While the <a href="https://github.com/wolf-adam-eily/refseq_diffexp_funct_annotation_uconn">RefSeq tutorial</a> is ideal for students and researchers needing instructions on common bioinformatical techniques, the reading here is to begin instilling in students and researchers the out-of-the-box mindset and technical skill needed to solve non-traditional biological questions which commonly presents in data. All data used are in this repository and will be downloaded when cloned.
 
 <li><a href="#getting_started">1 Loading data in R and getting started</a></li>
