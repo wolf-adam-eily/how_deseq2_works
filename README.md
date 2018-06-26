@@ -6,8 +6,8 @@ This tutorial is meant to be used in conjunction with UConn's RefSeq Differentia
 	<li><a href="#how_deseq2_works_3">4 Reparameterizing the negative binomial distribution</a></li>
 	<li><a href="#how_deseq2_works_4">5 Parameter estimation theory: mean and variance</a></li>
 	<li><a href="#how_deseq2_works_5">6 Parameter estimation technique: mean and variance</a></li>
-	<ol>	<li><a href="#how_deseq2_works_6">6a Cox Reid-Adjusted Likelihood</a></li>
-		<li><a href="#how_deseq2_works_7">6b Estimating variance with CRAL</a></li></ol>
+	<ol>	<li><a href="#how_deseq2_works_6">Cox Reid-Adjusted Likelihood</a></li>
+		<li><a href="#how_deseq2_works_7">Estimating variance with CRAL</a></li></ol>
 		<li><a href="#how_deseq2_works_8">7 Calculating significance of findings</a></li>
 
 <h3 id="getting_started">Loading data in R and getting started</h2>
